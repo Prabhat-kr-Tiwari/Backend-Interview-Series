@@ -1,0 +1,15 @@
+streams in node js
+
+in earlier
+download all fle instore
+
+1. streams
+data is delivered chunk by chunk
+
+
+Node Js -streams
+1. Readable  -> Read data from source
+2. Writeable -> Write data to destination
+3. Duplex    -> Read or write 
+4. Transform -> Manipulate data
+
